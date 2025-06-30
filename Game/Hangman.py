@@ -1,7 +1,7 @@
 import random
 
 # รายชื่อคำศัพท์
-words = ['python', 'hangman', 'challenge', 'computer', 'programming', 'network', 'security', 'algorithm', 'function', 'variable',
+words =[ 'python', 'hangman', 'challenge', 'computer', 'programming', 'network', 'security', 'algorithm', 'function', 'variable',
           'syntax' , 'data', 'structure', 'database', 'software', 'hardware', 'internet', 'website', 'application', 'developer', 
           'engineer', 'debugging', 'testing','version', 'control', 'repository', 'framework', 'library', 'module',  'switching',
           'script', 'code', 'editor', 'compiler', 'interpreter', 'runtime', 'exception', 'error', 'bug', 'patch', 
@@ -11,7 +11,7 @@ words = ['python', 'hangman', 'challenge', 'computer', 'programming', 'network',
           'methodology', 'process', 'workflow', 'automation', 'integration', 'deployment', 'cloud', 'virtualization', 'containerization', 'microservices', 
           'api', 'webservice', 'protocol', 'http', 'https', 'tcp', 'udp', 'ip', 'dns', 'ssl', 
           'tls', 'encryption', 'authentication', 'authorization', 'session', 'cookie', 'token', 'csrf', 'xss', 'sql', 
-          'injection', 'vulnerability', 'exploit', 'penetration', 'networking', ,'audit', 'compliance', 'regulation', 'policy', 'routing',  
+          'injection', 'vulnerability', 'exploit', 'penetration', 'networking', 'audit', 'compliance', 'regulation', 'policy', 'routing',  
           'risk','incident', 'response', 'backup', 'recovery', 'disaster', 'planning',  'monitoring', 'logging', 
           'alerting', 'metrics', 'dashboard', 'visualization', 'analytics', 'bigdata', 'machinelearning', 'artificialintelligence', 'deeplearning', 'neuralnetwork', 
           'dataanalysis', 'datavisualization', 'businessintelligence', 'reporting', 'dashboarding', 'datawarehouse', 'datamining', 'dataengineering', 'datascience', 'statistics', 
